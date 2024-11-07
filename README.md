@@ -5,7 +5,7 @@ Pasos para poder ejecutar la aplicaicon
 1. Clonar repositorio.
 2. Ejectar `npm instal` para rescontruir los modulos node.
 3. Correr el devServer con `npm run dev`.
-4. Abrir el proyecto en `localhost:3000`
+4. Abrir el proyecto en `http://localhost:3000`
 
 ## Producción
 
